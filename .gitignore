@@ -107,3 +107,6 @@ dist
 .parcel-cache
 .ts-cache
 .vscode
+
+# Test
+/test/dist/
